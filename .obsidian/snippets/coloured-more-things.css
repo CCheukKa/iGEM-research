@@ -1,11 +1,9 @@
-/* Path: coloured-more-things.css */
-
 em,
 strong,
 .cm-em,
 .cm-strong {
     /* color: #70bdfc; */
-    color: #77dd77;
+    /* color: #77dd77; */
 }
 
 .markdown-rendered h1,
@@ -16,7 +14,7 @@ strong,
 .markdown-rendered h6,
 .cm-header {
     /* color: #f0e68c; */
-    color: #f0e130;
+    /* color: #f0e130; */
     text-decoration: underline;
 }
 
