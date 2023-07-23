@@ -6,8 +6,13 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "defaultViewMode": "source",
-  "livePreview": false,
-  "showFrontmatter": true
+  "livePreview": true,
+  "showFrontmatter": true,
+  "spellcheckDictionary": [
+    "mecA",
+    "mecA",
+    "MecA"
+  ]
 }

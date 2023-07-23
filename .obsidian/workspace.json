@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1034b264183b61a",
+        "id": "549726de3db83986",
         "type": "tabs",
         "children": [
           {
-            "id": "13e3149f90d0d8e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance mechanisms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "67ea38935b5831c8",
+            "id": "2bfb8f762e05402b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,12 +16,24 @@
                 "file": "mecA gene.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "971f10a91b45c601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methicillin resistance mechanisms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
               "type": "backlink",
               "state": {
                 "file": "mecA gene.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -148,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,16 +161,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67ea38935b5831c8",
+  "active": "2bfb8f762e05402b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "mecA gene.md",
-    "beta-lactam antibiotics.md",
-    "Methicillin.md",
     "Methicillin resistance mechanisms.md",
+    "mecA gene.md",
+    "Methicillin.md",
+    "attachments/Pasted image 20230723234418.png",
+    "Genomic basis for methicillin resistance.md",
+    "attachments",
+    "Pasted image 20230723234316.png",
+    "Pasted image 20230723234120.png.md",
+    "Pasted image 20230723234120.png",
+    "Untitled.md",
+    "beta-lactam antibiotics.md",
     "β-lactam anitbiotics.md",
     "MRSA.md",
-    "Genomic basis for methicillin resistance.md",
     "β-lactam.md",
     "Untitled.canvas"
   ]

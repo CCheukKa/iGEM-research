@@ -7,5 +7,5 @@ Methicillin is a [beta-lactam antibiotic](β-lactam antibiotics.md) which is not
 Another mechanism of borderline methicillin resistance involves the alterations of penicillin-binding proteins (PBPs), the peptidoglycan synthesis enzymes. SA has at least four different PBPs, designated PBP1-4, and they are the targets of beta-lactam antibiotics. A decrease in the penicillin-binding affinities of the PBPs, an increase in the production of PBPs, or a combination of both are considered to account for some cases of raised resistance to beta-lactam antibiotics.
 Tomasz et al. reported the clinical strains associated with decreased penicillin-binding affinities of PBP1 or PBP3 and increased production of PBP4. MICs of methicillin to these clinical strains and also to those producing an excessive amount of penicillinase increase only marginally compared to that of susceptible SA strains.
 
-#### mecA
+#### [mecA](mecA%20gene.md)
 However, the most significant and most prevalent mechanism of methicillin resistance is associated with the acquisition of the additional PBP, designated PBP2, by staphylococci.

@@ -3,5 +3,6 @@
   "cssTheme": "Things",
   "textFontFamily": "Cascadia Code",
   "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "showViewHeader": true
 }
