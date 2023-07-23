@@ -15,3 +15,20 @@ Nucleotide sequencing study has revealed that *the gene is composed of two regio
 ![mecA homology](attachments/Pasted%20image%2020230723234418.png)
 The presence of the mecA gene is considered to be the hallmark for the identification of MRSA in clinical laboratories, and PCR detection methods of mecA gene have been developed for this purpose by several researchers.
 
+## [Sequence](https://www.ncbi.nlm.nih.gov/nuccore/NC_007795.1?report=genbank&from=907598&to=908317)
+##### numbered
+001 atgagaatag aacgagtaga tgatacaact gtaaaattgt ttataacata tagcgatatc
+061 gaggcccgtg gatttagtcg tgaagattta tggacaaatc gcaaacgtgg cgaagaattc
+121 ttttggtcaa tgatggatga aattaacgaa gaagaagatt ttgttgtaga aggtccatta
+181 tggattcaag tacatgcctt tgaaaaaggt gtcgaagtca caatttctaa atctaaaaat
+241 gaagatatga tgaatatgtc tgatgatgat gcaactgatc aatttgatga acaagttcaa
+301 gaattgttag ctcaaacatt agaaggtgaa gatcaattag aagaattatt cgagcaacga
+361 acaaaagaaa aagaagctca aggttctaaa cgtcaaaagt cttcagcacg taaaaataca
+421 agaacaatca ttgtgaaatt taacgattta gaagatgtta ttaattatgc atatcatagc
+481 aatccaataa ctacagagtt tgaagatttg ttatatatgg ttgatggtac ttattattat
+541 gctgtatatt ttgatagtca tgttgatcaa gaagtcatta atgatagtta cagtcaattg
+601 cttgaatttg cttatccaac agacagaaca gaagtttatt taaatgacta tgctaaaata
+661 attatgagtc ataacgtaac agctcaagtt cgacgttatt ttccagagac aactgaataa
+#### unnumbered
+atgagaatagaacgagtagatgatacaactgtaaaattgtttataacatatagcgatatcgaggcccgtggatttagtcgtgaagatttatggacaaatcgcaaacgtggcgaagaattcttttggtcaatgatggatgaaattaacgaagaagaagattttgttgtagaaggtccattatggattcaagtacatgcctttgaaaaaggtgtcgaagtcacaatttctaaatctaaaaatgaagatatgatgaatatgtctgatgatgatgcaactgatcaatttgatgaacaagttcaagaattgttagctcaaacattagaaggtgaagatcaattagaagaattattcgagcaacgaacaaaagaaaaagaagctcaaggttctaaacgtcaaaagtcttcagcacgtaaaaatacaagaacaatcattgtgaaatttaacgatttagaagatgttattaattatgcatatcatagcaatccaataactacagagtttgaagatttgttatatatggttgatggtacttattattatgctgtatattttgatagtcatgttgatcaagaagtcattaatgatagttacagtcaattgcttgaatttgcttatccaacagacagaacagaagtttatttaaatgactatgctaaaataattatgagtcataacgtaacagctcaagttcgacgttattttccagagacaactgaataa
+
