@@ -1,0 +1,19 @@
+/* Path: coloured-more-things.css */
+
+.cm-em,
+.cm-strong {
+    color: #70bdfc
+}
+
+.cm-header {
+    /* color: #f0e68c; */
+    color: #f0e130
+}
+
+span.cm-link {
+    color: #4a8c4a;
+}
+
+:root {
+    --link-external-color: #4a8c4a;
+}

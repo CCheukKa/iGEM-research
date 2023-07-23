@@ -6,6 +6,7 @@
   "baseFontSize": 14,
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "coloured-bold-and-italics"
+    "coloured-bold-and-italics",
+    "coloured-more-things"
   ]
 }
