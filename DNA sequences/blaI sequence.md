@@ -1,6 +1,7 @@
-[Staphylococcus epidermidis strain ATCC 14990 chromosome, complete geno - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP035288.1?report=genbank&from=957725&to=958105)
-
 -> ***381bp***
+
+# SE
+[Staphylococcus epidermidis strain ATCC 14990 chromosome, complete geno - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP035288.1?report=genbank&from=957725&to=958105)
 
 #### numbered
 001 atggccaata agcaagttga aatatctatg gctgaatggg atgttatgaa tataatatgg
@@ -13,3 +14,63 @@
 
 #### unnumbered
 atggccaataagcaagttgaaatatctatggctgaatgggatgttatgaatataatatgggataaaaaatcagtatcagctaatgaaattgtagttgaaattcaaaaatataaagaagttagcgataaaacgattagaacattaatcacaagactatataaaaaagagattataaaacgatacaaatcagagaatatttatttttactcatcaaatattaaagaagacgatattaaaatgaaaactgctaaaacctttcttaataaactgtatggaggggacatgaaaagtttagtgctaaattttgcgaaaaatgaagaattaaataacaaagaaattgaagaattgcgagccattttaaatgatattagtaaaaaataa
+
+# SC
+[Staphylococcus caprae strain JMUB898 chromosome, complete genome - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NZ_AP018587.1?report=genbank&from=1015579&to=1015959)
+
+#### numbered
+001 atggccaata agcaagttga aatatctatg gctgaatggg atgttatgaa tataatatgg
+061 gataaaaaat cagtatcagc taatgaaatt gtagttgaaa ttcaaaaata taaagaagtt
+121 agcgataaaa cgattagaac attaatcaca agactatata aaaaagagat tataaaacga
+181 tacaaatcag agaatattta tttttactca tcaaatatta aagaagacga tattaaaatg
+241 aaaactgcta aaacctttct taataaactg tatggagggg acatgaaaag tttagtgcta
+301 aattttgcga aaaatgaaga attaaataac aaagaaattg aagaattgcg agccatttta
+361 aatgatatta gtaaaaaata a
+
+#### unnumbered
+atggccaataagcaagttgaaatatctatggctgaatgggatgttatgaatataatatgggataaaaaatcagtatcagctaatgaaattgtagttgaaattcaaaaatataaagaagttagcgataaaacgattagaacattaatcacaagactatataaaaaagagattataaaacgatacaaatcagagaatatttatttttactcatcaaatattaaagaagacgatattaaaatgaaaactgctaaaacctttcttaataaactgtatggaggggacatgaaaagtttagtgctaaattttgcgaaaaatgaagaattaaataacaaagaaattgaagaattgcgagccattttaaatgatattagtaaaaaataa
+
+# SC (complementary)
+[Staphylococcus caprae strain JMUB898 chromosome, complete genome - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NZ_AP018587.1?report=genbank&from=984013&to=984393&strand=true)
+
+#### numbered
+001 atggccaata agcaagttga aataactatg gctgaatggg atgttatgaa tataatatgg
+061 aataaaaaat cagtatcagc taatgaaatt gtagttgaga ttcaaaaaaa taaagaagtt
+121 agcgataaga cgattagaac attaattaca agactatata aaaaagagat tataaaacga
+181 tataaatata gtaatattta tttttactca tcaaatatta aagaagatga tattaaaatg
+241 aaaactgcta aaacctttct taataaattg tatggagggg atatgaaaag tttagtgctt
+301 aattttgcga aaaatgaaga atttaataac aaagaaattg aagaattgca agacatttta
+361 aatgatatta gtaaaaaata a
+
+#### unnumbered
+atggccaataagcaagttgaaataactatggctgaatgggatgttatgaatataatatggaataaaaaatcagtatcagctaatgaaattgtagttgagattcaaaaaaataaagaagttagcgataagacgattagaacattaattacaagactatataaaaaagagattataaaacgatataaatatagtaatatttatttttactcatcaaatattaaagaagatgatattaaaatgaaaactgctaaaacctttcttaataaattgtatggaggggatatgaaaagtttagtgcttaattttgcgaaaaatgaagaatttaataacaaagaaattgaagaattgcaagacattttaaatgatattagtaaaaaataa
+
+# SCC1
+[Staphylococcus capitis subsp. capitis strain H17 chromosome, complete - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP102089.1?report=genbank&from=937362&to=937742)
+
+#### numbered
+001 atggccaata agcaagttga aatatctatg gctgaatggg atgttatgaa tataatatgg
+061 aataaaaaat cagtatcagc taatgaaatt gtagttgaga ttcaaaaaaa taaagaagtt
+121 agcgataaga cgattagaac attaattaca agactatata aaaaagagat tataaaacgc
+181 tataaatata ataatattta tttttactca tcaattatta aagaagatga tattaaaatg
+241 aaaactgcta aaacctttct taataaattg tatggagggg atatgaaaag tttagtgctt
+301 aattttgcga aaaatgaaga attaaataac aaagaaattg aagaattgcg agacatttta
+361 aatgatatta gtaaaaaata a
+
+#### unnumbered
+atggccaataagcaagttgaaatatctatggctgaatgggatgttatgaatataatatggaataaaaaatcagtatcagctaatgaaattgtagttgagattcaaaaaaataaagaagttagcgataagacgattagaacattaattacaagactatataaaaaagagattataaaacgctataaatataataatatttatttttactcatcaattattaaagaagatgatattaaaatgaaaactgctaaaacctttcttaataaattgtatggaggggatatgaaaagtttagtgcttaattttgcgaaaaatgaagaattaaataacaaagaaattgaagaattgcgagacattttaaatgatattagtaaaaaataa
+
+# SCC2
+[Staphylococcus capitis subsp. capitis strain H17 chromosome, complete - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP102089.1?report=genbank&from=2165453&to=2165833)
+
+#### numbered
+001 atggccaata agcaagttga aatatctatg gctgaatggg atgttatgaa tataatatgg
+061 aataaaaaat cagtatcagc taatgaaatt gtagttgaga ttcaaaaaaa taaagaagtt
+121 agcgataaga cgattagaac attaattaca agactatata aaaaagagat tataaaacgc
+181 tataaatata ataatattta tttttactca tcaattatta aagaagatga tattaaaatg
+241 aaaactgcta aaacctttct taataaattg tatggagggg atatgaaaag tttagtgctt
+301 aattttgcga aaaatgaaga attaaataac aaagaaattg aagaattgcg agacatttta
+361 aatgatatta gtaaaaaata a
+
+#### unnumbered
+atggccaataagcaagttgaaatatctatggctgaatgggatgttatgaatataatatggaataaaaaatcagtatcagctaatgaaattgtagttgagattcaaaaaaataaagaagttagcgataagacgattagaacattaattacaagactatataaaaaagagattataaaacgctataaatataataatatttatttttactcatcaattattaaagaagatgatattaaaatgaaaactgctaaaacctttcttaataaattgtatggaggggatatgaaaagtttagtgcttaattttgcgaaaaatgaagaattaaataacaaagaaattgaagaattgcgagacattttaaatgatattagtaaaaaataa
