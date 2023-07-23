@@ -10,6 +10,7 @@
           {
             "id": "971f10a91b45c601",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,23 +18,25 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "8e4207ad4f24ff9f",
+            "id": "30097eedb484a863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mecA sequence.md",
+                "file": "DNA sequences/mecA sequence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,9 +93,11 @@
           {
             "id": "2bfb8f762e05402b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -115,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mecA gene.md",
+                "file": "DNA sequences/mecA sequence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mecA gene.md",
+                "file": "DNA sequences/mecA sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mecA gene.md"
+                "file": "DNA sequences/mecA sequence.md"
               }
             }
           }
@@ -176,21 +181,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "971f10a91b45c601",
+  "active": "30097eedb484a863",
   "lastOpenFiles": [
-    "mecA sequence.md",
+    "DNA sequences/blaI sequence.md",
     "mecA gene.md",
-    "attachments/Microbiology and Immunology - August 1995 - Hiramatsu - Molecular Evolution of MRSA.pdf",
-    "beta-lactam antibiotics.md",
-    "Methicillin resistance mechanisms.md",
     "Methicillin.md",
-    "attachments/Pasted image 20230723234418.png",
     "Genomic basis for methicillin resistance.md",
+    "DNA sequences/mecA sequence.md",
+    "attachments/Pasted image 20230723234418.png",
+    "beta-lactam antibiotics.md",
+    "f",
+    "DNA sequences",
+    "attachments/Microbiology and Immunology - August 1995 - Hiramatsu - Molecular Evolution of MRSA.pdf",
+    "Methicillin resistance mechanisms.md",
     "attachments",
     "Pasted image 20230723234316.png",
     "Pasted image 20230723234120.png.md",
     "Pasted image 20230723234120.png",
-    "Untitled.md",
     "β-lactam anitbiotics.md",
     "MRSA.md",
     "β-lactam.md",

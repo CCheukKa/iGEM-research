@@ -1,0 +1,15 @@
+[Staphylococcus epidermidis strain ATCC 14990 chromosome, complete geno - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP035288.1?report=genbank&from=957725&to=958105)
+
+-> ***381bp***
+
+#### numbered
+001 atggccaata agcaagttga aatatctatg gctgaatggg atgttatgaa tataatatgg
+061 gataaaaaat cagtatcagc taatgaaatt gtagttgaaa ttcaaaaata taaagaagtt
+121 agcgataaaa cgattagaac attaatcaca agactatata aaaaagagat tataaaacga
+181 tacaaatcag agaatattta tttttactca tcaaatatta aagaagacga tattaaaatg
+241 aaaactgcta aaacctttct taataaactg tatggagggg acatgaaaag tttagtgcta
+301 aattttgcga aaaatgaaga attaaataac aaagaaattg aagaattgcg agccatttta
+361 aatgatatta gtaaaaaata a
+
+#### unnumbered
+atggccaataagcaagttgaaatatctatggctgaatgggatgttatgaatataatatgggataaaaaatcagtatcagctaatgaaattgtagttgaaattcaaaaatataaagaagttagcgataaaacgattagaacattaatcacaagactatataaaaaagagattataaaacgatacaaatcagagaatatttatttttactcatcaaatattaaagaagacgatattaaaatgaaaactgctaaaacctttcttaataaactgtatggaggggacatgaaaagtttagtgctaaattttgcgaaaaatgaagaattaaataacaaagaaattgaagaattgcgagccattttaaatgatattagtaaaaaataa

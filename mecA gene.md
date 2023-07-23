@@ -1,5 +1,5 @@
 mec = [Methicillin](Methicillin.md) resistance
--> ***[mecA sequence](mecA%20sequence.md)***
+-> ***[mecA sequence](DNA%20sequences/mecA%20sequence.md)***
 
 [Molecular Evolution of MRSA](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1348-0421.1995.tb02239.x)
 [SAOUHSC\_00935 adaptor protein MecA (Staphylococcus aureus subsp. aureus NCTC 8325) - Gene - NCBI](https://www.ncbi.nlm.nih.gov/gene/3920764)

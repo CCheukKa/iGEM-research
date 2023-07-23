@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Atom - Customised",
-  "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Cascadia Code",
+  "textFontFamily": "JetBrains Mono,Cascadia Code,Segoe UI Emoji",
+  "monospaceFontFamily": "Cascadia Code,JetBrains Mono",
   "baseFontSize": 14,
   "showViewHeader": true,
   "enabledCssSnippets": [
