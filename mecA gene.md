@@ -1,4 +1,5 @@
 mec = [Methicillin](Methicillin.md) resistance
+-> ***[mecA sequence](mecA%20sequence.md)***
 
 [Molecular Evolution of MRSA](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1348-0421.1995.tb02239.x)
 [SAOUHSC\_00935 adaptor protein MecA [Staphylococcus aureus subsp. aureus NCTC 8325] - Gene - NCBI](https://www.ncbi.nlm.nih.gov/gene/3920764)
@@ -14,21 +15,3 @@ The mecA gene codes for PBP2', a penicillin-binding protein with low binding aff
 Nucleotide sequencing study has revealed that *the gene is composed of two regions having homology to two distinct genes*; the 5' region of the gene has homology to the penicillinase gene (blaZ) of SA, and the rest of the gene has homology to E Coli PBPs2 and 3. 
 ![mecA homology](attachments/Pasted%20image%2020230723234418.png)
 The presence of the mecA gene is considered to be the hallmark for the identification of MRSA in clinical laboratories, and PCR detection methods of mecA gene have been developed for this purpose by several researchers.
-
-## [Sequence](https://www.ncbi.nlm.nih.gov/nuccore/NC_007795.1?report=genbank&from=907598&to=908317)
-##### numbered
-001 atgagaatag aacgagtaga tgatacaact gtaaaattgt ttataacata tagcgatatc
-061 gaggcccgtg gatttagtcg tgaagattta tggacaaatc gcaaacgtgg cgaagaattc
-121 ttttggtcaa tgatggatga aattaacgaa gaagaagatt ttgttgtaga aggtccatta
-181 tggattcaag tacatgcctt tgaaaaaggt gtcgaagtca caatttctaa atctaaaaat
-241 gaagatatga tgaatatgtc tgatgatgat gcaactgatc aatttgatga acaagttcaa
-301 gaattgttag ctcaaacatt agaaggtgaa gatcaattag aagaattatt cgagcaacga
-361 acaaaagaaa aagaagctca aggttctaaa cgtcaaaagt cttcagcacg taaaaataca
-421 agaacaatca ttgtgaaatt taacgattta gaagatgtta ttaattatgc atatcatagc
-481 aatccaataa ctacagagtt tgaagatttg ttatatatgg ttgatggtac ttattattat
-541 gctgtatatt ttgatagtca tgttgatcaa gaagtcatta atgatagtta cagtcaattg
-601 cttgaatttg cttatccaac agacagaaca gaagtttatt taaatgacta tgctaaaata
-661 attatgagtc ataacgtaac agctcaagtt cgacgttatt ttccagagac aactgaataa
-#### unnumbered
-atgagaatagaacgagtagatgatacaactgtaaaattgtttataacatatagcgatatcgaggcccgtggatttagtcgtgaagatttatggacaaatcgcaaacgtggcgaagaattcttttggtcaatgatggatgaaattaacgaagaagaagattttgttgtagaaggtccattatggattcaagtacatgcctttgaaaaaggtgtcgaagtcacaatttctaaatctaaaaatgaagatatgatgaatatgtctgatgatgatgcaactgatcaatttgatgaacaagttcaagaattgttagctcaaacattagaaggtgaagatcaattagaagaattattcgagcaacgaacaaaagaaaaagaagctcaaggttctaaacgtcaaaagtcttcagcacgtaaaaatacaagaacaatcattgtgaaatttaacgatttagaagatgttattaattatgcatatcatagcaatccaataactacagagtttgaagatttgttatatatggttgatggtacttattattatgctgtatattttgatagtcatgttgatcaagaagtcattaatgatagttacagtcaattgcttgaatttgcttatccaacagacagaacagaagtttatttaaatgactatgctaaaataattatgagtcataacgtaacagctcaagttcgacgttattttccagagacaactgaataa
-

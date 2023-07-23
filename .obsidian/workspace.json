@@ -35,6 +35,16 @@
         "dimension": 68.76574307304786,
         "children": [
           {
+            "id": "e6f3ccac36c97a8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "98ffdcf1e4d8da1a",
             "type": "leaf",
             "state": {
@@ -55,16 +65,6 @@
             "state": {
               "type": "bookmarks",
               "state": {}
-            }
-          },
-          {
-            "id": "e6f3ccac36c97a8c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "971f10a91b45c601",
   "lastOpenFiles": [
-    "attachments/Microbiology and Immunology - August 1995 - Hiramatsu - Molecular Evolution of MRSA.pdf",
+    "mecA sequence.md",
     "mecA gene.md",
+    "attachments/Microbiology and Immunology - August 1995 - Hiramatsu - Molecular Evolution of MRSA.pdf",
     "beta-lactam antibiotics.md",
     "Methicillin resistance mechanisms.md",
     "Methicillin.md",

@@ -4,5 +4,8 @@
   "textFontFamily": "Cascadia Code",
   "monospaceFontFamily": "Cascadia Code",
   "baseFontSize": 14,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "coloured-bold-and-italics"
+  ]
 }
