@@ -82,3 +82,6 @@ iOSInjectionProject/
 
 # Google Drive meta files
 desktop.ini
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
