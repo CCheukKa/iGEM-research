@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "#antibiotic",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
       "query": "methicillin",
       "color": {
         "a": 1,
@@ -19,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "multiple",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000018,
+  "scale": 1.0000000000000022,
   "close": true
 }
