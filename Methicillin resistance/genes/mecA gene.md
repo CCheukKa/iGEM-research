@@ -13,7 +13,7 @@ The mecA gene codes for PBP2', a penicillin-binding protein with low binding aff
 -> requires [femA gene](femA%20gene.md) to express in a high degree
 
 # Homology
-Nucleotide sequencing study has revealed that *the gene is composed of two regions having homology to two distinct genes*; the 5' region of the gene has homology to the [penicillinase gene (blaZ)](../DNA%20sequences/mecA%20sequence%20comparison%20(bla).md) of SA, and the rest of the gene has homology to [E Coli PBPs2 and 3](../DNA%20sequences/mecA%20sequence%20comparison%20(PBP).md).
+Nucleotide sequencing study has revealed that *the gene is composed of two regions having homology to two distinct genes*; the 5' region of the gene has homology to the [penicillinase gene (blaZ)](../DNA%20sequences/mecA%20sequence%20comparison%20(bla).md) of SA, and the rest of the gene has homology to [E Coli PBPs2 and 3](../DNA%20sequences/mecA%20sequence%20comparison%20(PBP2).md).
 (original source as cited: [Evolution of an inducible penicillin‐target protein in methicillin‐resistant Staphylococcus aureus by gene fusion](https://febs.onlinelibrary.wiley.com/doi/epdf/10.1016/0014-5793%2887%2980373-3))
 ![mecA homology](../attachments/Pasted%20image%2020230723234418.png)
 The presence of the mecA gene is considered to be the hallmark for the identification of MRSA in clinical laboratories, and PCR detection methods of mecA gene have been developed for this purpose by several researchers.

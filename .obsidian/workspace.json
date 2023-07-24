@@ -21,8 +21,48 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4547ab011014d66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methicillin resistance/genes/mecA gene.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84896ea606383899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methicillin resistance/DNA sequences/mecA sequence.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d25604331279c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methicillin resistance/DNA sequences/PBP2 sequence.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,12 +207,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "971f10a91b45c601",
+  "active": "4547ab011014d66d",
   "lastOpenFiles": [
+    "Methicillin resistance/DNA sequences/mecA sequence.md",
+    "Methicillin resistance/DNA sequences/mecA sequence comparison (PBP2).md",
+    "Methicillin resistance/DNA sequences/PBP2 sequence.md",
+    "Methicillin resistance/genes/mecA gene.md",
+    "Methicillin resistance/DNA sequences/femA sequence.md",
+    "Methicillin resistance/genes/femA gene.md",
+    "Multiple antibiotic resistance/marR gene.md",
     "Methicillin resistance/Genomic basis for methicillin resistance.md",
     "Antibiotics/tetracycline.md",
-    "Methicillin resistance/genes/mecA gene.md",
-    "Multiple antibiotic resistance/marR gene.md",
     "Antibiotics/quinolones.md",
     "Antibiotics/chloramphenicol.md",
     "Antibiotics/methicillin.md",
@@ -184,12 +229,8 @@
     "Methicillin resistance/MRSA.md",
     "Methicillin resistance",
     "Methicillin resistance/genes/genes involved.md",
-    "Methicillin resistance/DNA sequences/femA sequence.md",
-    "Methicillin resistance/genes/femA gene.md",
-    "Methicillin resistance/DNA sequences/mecA sequence.md",
     "Methicillin resistance/genes",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
-    "Methicillin resistance/DNA sequences/mecA sequence comparison (PBP).md",
     "Methicillin resistance/DNA sequences/blaI sequence.md",
     "Methicillin resistance/attachments/Pasted image 20230723234418.png",
     "f",
