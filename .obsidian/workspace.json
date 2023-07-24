@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/PBP2 sequence.md",
+                "file": "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/PBP2 sequence.md",
+                "file": "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/PBP2 sequence.md"
+                "file": "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md"
               }
             }
           }
@@ -194,7 +194,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5d25604331279c2b",
+  "active": "84896ea606383899",
   "lastOpenFiles": [
     "Methicillin resistance/DNA sequences/PBP2 sequence.md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
