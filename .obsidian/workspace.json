@@ -14,29 +14,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genes/mecA gene.md",
+                "file": "Methicillin resistance/genes/mecA gene.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "23276ec491a81511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance mechanisms.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +34,7 @@
       {
         "id": "8cfd008dcc67a3c9",
         "type": "tabs",
-        "dimension": 68.76574307304786,
+        "dimension": 65.99496221662469,
         "children": [
           {
             "id": "e6f3ccac36c97a8c",
@@ -86,9 +72,9 @@
         ]
       },
       {
-        "id": "781bf29c8eb1addb",
+        "id": "8c2ef1b9f0e928be",
         "type": "tabs",
-        "dimension": 31.234256926952142,
+        "dimension": 34.005037783375315,
         "children": [
           {
             "id": "2bfb8f762e05402b",
@@ -104,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 339.5
   },
   "right": {
     "id": "a2915a9f4aef6506",
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance mechanisms.md",
+                "file": "Methicillin resistance/genes/mecA gene.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance mechanisms.md",
+                "file": "Methicillin resistance/genes/mecA gene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methicillin resistance mechanisms.md"
+                "file": "Methicillin resistance/genes/mecA gene.md"
               }
             }
           }
@@ -181,27 +167,28 @@
       "random-note:Open random note": false
     }
   },
-  "active": "23276ec491a81511",
+  "active": "971f10a91b45c601",
   "lastOpenFiles": [
-    "genes/genes involved.md",
-    "Methicillin resistance mechanisms.md",
-    "genes/mecA gene.md",
-    "MRSA.md",
-    "Genomic basis for methicillin resistance.md",
-    "DNA sequences/femA sequence.md",
-    "beta-lactam antibiotics.md",
-    "genes/femA gene.md",
-    "DNA sequences/mecA sequence.md",
-    "Methicillin.md",
-    "genes",
-    "DNA sequences/mecA sequence comparison (bla).md",
-    "DNA sequences/mecA sequence comparison (PBP).md",
-    "DNA sequences/blaI sequence.md",
-    "attachments/Pasted image 20230723234418.png",
+    "Methicillin resistance/MRSA.md",
+    "Methicillin resistance",
+    "Methicillin resistance/Methicillin resistance mechanisms.md",
+    "Methicillin resistance/genes/genes involved.md",
+    "Methicillin resistance/genes/mecA gene.md",
+    "Methicillin resistance/Genomic basis for methicillin resistance.md",
+    "Methicillin resistance/DNA sequences/femA sequence.md",
+    "Methicillin resistance/beta-lactam antibiotics.md",
+    "Methicillin resistance/genes/femA gene.md",
+    "Methicillin resistance/DNA sequences/mecA sequence.md",
+    "Methicillin resistance/Methicillin.md",
+    "Methicillin resistance/genes",
+    "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
+    "Methicillin resistance/DNA sequences/mecA sequence comparison (PBP).md",
+    "Methicillin resistance/DNA sequences/blaI sequence.md",
+    "Methicillin resistance/attachments/Pasted image 20230723234418.png",
     "f",
-    "DNA sequences",
+    "Methicillin resistance/DNA sequences",
     "attachments/Microbiology and Immunology - August 1995 - Hiramatsu - Molecular Evolution of MRSA.pdf",
-    "attachments",
+    "Methicillin resistance/attachments",
     "Pasted image 20230723234316.png",
     "Pasted image 20230723234120.png.md",
     "Pasted image 20230723234120.png",
