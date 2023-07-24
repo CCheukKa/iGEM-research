@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/mecA sequence.md",
+                "file": "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance/genes/mecA gene.md",
+                "file": "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance/genes/mecA gene.md",
+                "file": "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methicillin resistance/genes/mecA gene.md"
+                "file": "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md"
               }
             }
           }
@@ -207,12 +207,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4547ab011014d66d",
+  "active": "84896ea606383899",
   "lastOpenFiles": [
     "Methicillin resistance/DNA sequences/mecA sequence.md",
+    "Methicillin resistance/genes/mecA gene.md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (PBP2).md",
     "Methicillin resistance/DNA sequences/PBP2 sequence.md",
-    "Methicillin resistance/genes/mecA gene.md",
     "Methicillin resistance/DNA sequences/femA sequence.md",
     "Methicillin resistance/genes/femA gene.md",
     "Multiple antibiotic resistance/marR gene.md",
