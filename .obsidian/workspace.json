@@ -26,13 +26,8 @@
             "id": "d926459269b6e4fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance/Genomic basis for methicillin resistance/Genomic basis for methicillin resistance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -120,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance/Genomic basis for methicillin resistance/Genomic basis for methicillin resistance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance/Genomic basis for methicillin resistance/Genomic basis for methicillin resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Methicillin resistance/Genomic basis for methicillin resistance/Genomic basis for methicillin resistance.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -185,12 +176,14 @@
   "active": "d926459269b6e4fa",
   "lastOpenFiles": [
     "Methicillin resistance/Methicillin resistance mechanisms.md",
-    "Methicillin resistance/Genomic basis for methicillin resistance/Genomic basis for methicillin resistance.md",
+    "Methicillin resistance/genes/mecA gene.md",
+    "Antibiotics/methicillin.md",
+    "Methicillin resistance/MRSA.md",
+    "Methicillin resistance/Genomic basis for methicillin resistance.md",
     "Methicillin resistance/DNA sequences/femA sequence.md",
-    "Methicillin resistance/Genomic basis for methicillin resistance",
+    "Genomic basis for methicillin resistance",
     "Methicillin resistance/genes/genes involved.md",
     "Methicillin resistance/Methicillin resistance.md",
-    "Methicillin resistance/genes/mecA gene.md",
     "asdasd.md",
     "Methicillin resistance/asd.md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
@@ -202,12 +195,10 @@
     "Multiple antibiotic resistance/marR gene.md",
     "Antibiotics/tetracycline.md",
     "Antibiotics/chloramphenicol.md",
-    "Antibiotics/methicillin.md",
     "Antibiotics/beta-lactam.md",
     "Untitled",
     "Antibiotics",
     "Multiple antibiotic resistance",
-    "Methicillin resistance/MRSA.md",
     "Methicillin resistance",
     "Methicillin resistance/genes",
     "Methicillin resistance/DNA sequences/blaI sequence.md",
