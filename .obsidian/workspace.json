@@ -21,6 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bdee67f86ba08888",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "95dff386ba3edc5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -169,12 +185,13 @@
   },
   "active": "971f10a91b45c601",
   "lastOpenFiles": [
+    "Methicillin resistance/asd.md",
+    "Methicillin resistance/genes/mecA gene.md",
     "Methicillin resistance/Methicillin resistance mechanisms.md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
     "Methicillin resistance/Genomic basis for methicillin resistance.md",
     "Antibiotics/quinolones.md",
     "Methicillin resistance/DNA sequences/PBP2 sequence.md",
-    "Methicillin resistance/genes/mecA gene.md",
     "Methicillin resistance/DNA sequences/mecA sequence.md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (PBP2).md",
     "Methicillin resistance/DNA sequences/femA sequence.md",
