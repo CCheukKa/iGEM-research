@@ -1,0 +1,7 @@
+[Penicillin-binding proteins - Wikipedia](https://en.wikipedia.org/wiki/Penicillin-binding_proteins)
+
+> Penicillin-binding proteins (PBs) are a group of proteins that are characterized by their affinity for and binding of penicillin. They are a normal constituent of many bacteria; the name just reflects the way by which the protein was discovered. All [β-lactam antibiotics](../Antibiotics/beta-lactam.md) bind to PBPs, which are essential for bacterial cell wall synthesis.
+> Inhibition of PBPs leads to defects in cell wall structure and irregularities in cell shape, for example filamentation, pseudomulticellular forms, lesions leading to spheroplast formation, and eventual cell death and lysis.
+> 
+> PBPs bind to [β-lactam antibiotics](../Antibiotics/beta-lactam.md) because they are similar in chemical structure to the modular pieces that form the peptidoglycan. When they bind to penicillin, the β-lactam amide bond is ruptured to form a covalent bond with the catalytic serine residue at the PBPs active site. This is an irreversible reaction and inactivates the enzyme.
+> Resistance to antibiotics has come about through overproduction of PBPs and formation of PBPs that have low affinity for penicillin.

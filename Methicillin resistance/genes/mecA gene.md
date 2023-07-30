@@ -5,12 +5,12 @@ mec = [methicillin](../../Antibiotics/methicillin.md) resistance
 [SAOUHSC\_00935 adaptor protein MecA (Staphylococcus aureus subsp. aureus NCTC 8325) - Gene - NCBI](https://www.ncbi.nlm.nih.gov/gene/3920764)
 
 *More than 90%* of the methicillin-resistance clinical staphylococcal strains share a common feature of carrying the mecA gene.
-Introduction of the mecA gene confers methicillin resistance on MSSA strains, and transposon mutagenesis of the gene renders highly methicillin-resistant SA strains susceptible to methicillin.
+Introduction of the mecA gene confers methicillin resistance on MSSA strains, and transposon mutagenesis of the gene renders highly methicillin-resistant SA strains susceptible to [methicillin](../../Antibiotics/methicillin.md).
 *The mecA gene is known to be widely distributed in the species of genus Staphylococcus*, including MRSA and methicillin-resistant coagulase-negative staphylococci (MRC-NS), *but it has not been found in any other genus of bacteria.*
 
 # [Mechanism](../Methicillin%20resistance%20mechanisms.md)
-The mecA gene codes for PBP2', a penicillin-binding protein with low binding affinities to practically all [beta-lactam](../../Antibiotics/beta-lactam.md) clinically available today.
--> requires [femA gene](femA%20gene.md) to express in a high degree
+The mecA gene codes for PBP2', a [penicillin-binding protein](../Penicillin-binding%20protein.md) with low binding affinities to practically all [beta-lactam](../../Antibiotics/beta-lactam.md) clinically available today.
+-> requires [femA gene](femA%20gene.md) to demonstrate resistance in a high degree
 
 # Homology
 Nucleotide sequencing study has revealed that *the gene is composed of two regions having homology to two distinct genes*; the 5' region of the gene has homology to the [penicillinase gene (blaZ)](../DNA%20sequences/mecA%20sequence%20comparison%20(bla).md) of SA, and the rest of the gene has homology to [E Coli PBPs2 and 3](../DNA%20sequences/mecA%20sequence%20comparison%20(PBP2).md).
