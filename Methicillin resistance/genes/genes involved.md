@@ -1,12 +1,14 @@
+! there are at least 23 known auxiliary genes for this mechanism ([source](https://journals.asm.org/doi/epdf/10.1128/aac.38.11.2590))
+
 ## Prime candidates
 #### methicillin resistance:
--> [mecA gene](mecA%20gene.md)
+-> [mecA gene (PBP2a)](mecA%20gene%20(PBP2a).md)
 - the main thing
 - relatively short (720bp)
 - is a combination of 2 other genes (not 100%)
 #### methicillin resistance factor:
 -> [femA gene](femA%20gene.md)
-- the main factor
+- the main factor (seems to be quite important*)
 - very long (1263bp)
 
 

@@ -1,5 +1,5 @@
 [Staphylococcus aureus subsp. aureus NCTC 8325 chromosome, complete gen - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_007795.1?report=genbank&from=907598&to=908317)
-[mecA gene](../genes/mecA%20gene.md)
+[mecA gene (PBP2a)](../genes/mecA%20gene%20(PBP2a).md)
 
 -> ***720bp***
 

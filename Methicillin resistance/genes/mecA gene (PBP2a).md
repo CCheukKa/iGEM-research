@@ -2,6 +2,7 @@ mec = [methicillin](../../Antibiotics/methicillin.md) resistance
 -> ***[mecA sequence](../DNA%20sequences/mecA%20sequence.md)***
 
 [Molecular Evolution of MRSA](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1348-0421.1995.tb02239.x)
+[mecA - Wikipedia](https://en.wikipedia.org/wiki/MecA)
 [SAOUHSC\_00935 adaptor protein MecA (Staphylococcus aureus subsp. aureus NCTC 8325) - Gene - NCBI](https://www.ncbi.nlm.nih.gov/gene/3920764)
 
 *More than 90%* of the methicillin-resistance clinical staphylococcal strains share a common feature of carrying the mecA gene.
@@ -9,7 +10,7 @@ Introduction of the mecA gene confers methicillin resistance on MSSA strains, an
 *The mecA gene is known to be widely distributed in the species of genus Staphylococcus*, including MRSA and methicillin-resistant coagulase-negative staphylococci (MRC-NS), *but it has not been found in any other genus of bacteria.*
 
 # [Mechanism](../Methicillin%20resistance%20mechanisms.md)
-The mecA gene codes for PBP2', a [penicillin-binding protein](../Penicillin-binding%20protein.md) with low binding affinities to practically all [beta-lactam](../../Antibiotics/beta-lactam.md) clinically available today.
+***The mecA gene codes for PBP2' (PBP2a)***, a [penicillin-binding protein](../Penicillin-binding%20protein%20(PBP).md) with low binding affinities to practically all [beta-lactam](../../Antibiotics/beta-lactam.md) clinically available today.
 -> requires [femA gene](femA%20gene.md) to demonstrate resistance in a high degree
 
 # Homology

@@ -2,5 +2,5 @@
 [methicillin](../Antibiotics/methicillin.md)
 [Methicillin resistance mechanisms](Methicillin%20resistance%20mechanisms.md)
 
-Methicillin-resistant Staphylococcus aureus (MRSA) is an S. aureus that became resistant to [beta-lactam](../Antibiotics/beta-lactam.md) by acquiring [mecA gene](genes/mecA%20gene.md) on its chromosomal DNA.
+Methicillin-resistant Staphylococcus aureus (MRSA) is an S. aureus that became resistant to [beta-lactam](../Antibiotics/beta-lactam.md) by acquiring [mecA gene (PBP2a)](genes/mecA%20gene%20(PBP2a).md) on its chromosomal DNA.
 At least three distinct genotypes of MRSA were present in the 1980s [[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3780952/#B1)], and two of them are still prevalent in the world as multi-drug-resistant healthcare-associated MRSA (HA-MRSA) [[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3780952/#B3)]. They acquired resistance to practically all the antibiotics introduced into clinical use in the past half century. They conquered even the 'last-resort' antibiotic vancomycin [[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3780952/#B4), [5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3780952/#B5)].
