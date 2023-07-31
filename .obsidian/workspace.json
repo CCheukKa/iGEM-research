@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance/genes/genes involved.md",
+                "file": "Methicillin resistance/genes/mecA gene (PBP2a).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance/genes/genes involved.md",
+                "file": "Methicillin resistance/genes/mecA gene (PBP2a).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methicillin resistance/genes/genes involved.md"
+                "file": "Methicillin resistance/genes/mecA gene (PBP2a).md"
               }
             }
           }
@@ -232,8 +231,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8d509e0a0029a211",
+  "active": "971f10a91b45c601",
   "lastOpenFiles": [
+    "Methicillin resistance/genes/genes involved.md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
     "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Methicillin resistance/genes/mecA gene (PBP2a).md",
@@ -241,7 +241,6 @@
     "Methicillin resistance/DNA sequences/femA sequence.md",
     "Methicillin resistance/DNA sequences/mecA sequence.md",
     "Methicillin resistance/DNA sequences/blaI sequence.md",
-    "Methicillin resistance/genes/genes involved.md",
     "Methicillin resistance/genes/femA gene.md",
     "Methicillin resistance/Penicillin-binding protein (PBP).md",
     "Methicillin resistance/Genomic basis for methicillin resistance.md",
