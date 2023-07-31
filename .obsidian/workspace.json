@@ -99,8 +99,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4fef998b8af1f7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiple antibiotic resistance/marR gene.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9e59cad6ad57302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methicillin resistance/Methicillin resistance mechanisms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c078dee535f13b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methicillin resistance/Penicillin-binding protein (PBP).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -184,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance/genes/mecA gene (PBP2a).md",
+                "file": "Methicillin resistance/Penicillin-binding protein (PBP).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance/genes/mecA gene (PBP2a).md",
+                "file": "Methicillin resistance/Penicillin-binding protein (PBP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methicillin resistance/genes/mecA gene (PBP2a).md"
+                "file": "Methicillin resistance/Penicillin-binding protein (PBP).md"
               }
             }
           }
@@ -244,13 +284,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "971f10a91b45c601",
+  "active": "c078dee535f13b61",
   "lastOpenFiles": [
+    "Methicillin resistance/Methicillin resistance mechanisms.md",
+    "Methicillin resistance/genes/mecA gene (PBP2a).md",
+    "Multiple antibiotic resistance/marR gene.md",
     "Methicillin resistance/genes/genes involved.md",
     "Antibiotics/methicillin.md",
-    "Multiple antibiotic resistance/marR gene.md",
-    "Methicillin resistance/genes/mecA gene (PBP2a).md",
-    "Methicillin resistance/Methicillin resistance mechanisms.md",
     "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Methicillin resistance/DNA sequences/blaI sequence.md",
     "Methicillin resistance/genes/femA gene.md",
