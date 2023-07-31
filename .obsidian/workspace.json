@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
+                "file": "Methicillin resistance/genes/genes involved.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
+                "file": "Methicillin resistance/genes/genes involved.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
+                "file": "Methicillin resistance/genes/genes involved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md"
+                "file": "Methicillin resistance/genes/genes involved.md"
               }
             }
           }
@@ -232,12 +232,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ed499820baad1a47",
+  "active": "8d509e0a0029a211",
   "lastOpenFiles": [
+    "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
+    "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Methicillin resistance/genes/mecA gene (PBP2a).md",
     "Methicillin resistance/Methicillin resistance mechanisms.md",
-    "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
-    "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
     "Methicillin resistance/DNA sequences/femA sequence.md",
     "Methicillin resistance/DNA sequences/mecA sequence.md",
     "Methicillin resistance/DNA sequences/blaI sequence.md",
