@@ -1,6 +1,7 @@
 ! there are at least 23 known auxiliary genes for this mechanism ([source](https://journals.asm.org/doi/epdf/10.1128/aac.38.11.2590))
 
 ## Prime candidates
+=> [MRSA genome comparison](../DNA%20sequences/MRSA%20genome%20comparison.md)
 #### methicillin resistance:
 -> [mecA gene (PBP2a)](mecA%20gene%20(PBP2a).md)
 - the main thing
