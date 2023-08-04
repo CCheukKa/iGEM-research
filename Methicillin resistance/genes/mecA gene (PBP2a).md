@@ -1,4 +1,5 @@
 #gene 
+
 mec = [methicillin](../../Antibiotics/methicillin.md) resistance
 -> ***[mecA sequence](../DNA%20sequences/mecA%20sequence.md)***
 
