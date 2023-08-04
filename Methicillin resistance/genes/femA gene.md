@@ -1,3 +1,4 @@
+#gene
 [femA encodes a factor essential for expression of methicillin resistance](https://journals.asm.org/doi/epdf/10.1128/jb.173.11.3507-3513.1991)
 -> act with [mecA gene (PBP2a)](mecA%20gene%20(PBP2a).md) to facilitate expression
 

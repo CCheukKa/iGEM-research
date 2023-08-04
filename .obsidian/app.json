@@ -13,7 +13,9 @@
   "spellcheckDictionary": [
     "mecA",
     "mecA",
-    "MecA"
+    "MecA",
+    "DNA-zymes",
+    "DNA-zyme"
   ],
   "userIgnoreFilters": [
     "/desktop.ini/"

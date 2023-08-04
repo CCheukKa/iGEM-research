@@ -1,3 +1,4 @@
+#dna 
 [Staphylococcus aureus subsp. aureus NCTC 8325 chromosome, complete gen - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_007795.1?report=genbank&from=1317076&to=1318338)
 
 -> ***1263bp***

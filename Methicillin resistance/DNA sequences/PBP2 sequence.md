@@ -1,3 +1,4 @@
+#dna 
 [Escherichia coli O157:H7 str. Sakai DNA, complete genome - Nucleotide - NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_002695.2?report=genbank&from=747675&to=749576&strand=true)
 
 -> ***1902bp***
