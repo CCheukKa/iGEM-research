@@ -6,5 +6,8 @@
   "autoCheckDelay": 3000,
   "pickyMode": false,
   "staticLanguage": "auto",
-  "englishVeriety": "en-GB"
+  "englishVeriety": "en-GB",
+  "germanVeriety": "de-DE",
+  "portugueseVeriety": "pt-PT",
+  "catalanVeriety": "ca-ES"
 }

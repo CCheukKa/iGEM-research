@@ -9,5 +9,6 @@ There are currently 2 proposed [methicillin resistance](Methicillin%20resistance
 
 => I have made an executive decision to focus on strategy 1 since it should have a smaller chance of erroneous error comparatively. As discussed [here](Methicillin%20resistance/DNA%20sequences/MRSA%20genome%20comparison.md#findings), virtually any 15bp is enough to characterise the genes. For the ease of design and testing, we will start with constructing a DNAzyme with *only 1 detection arm*.
 
-## Binding mechanics
-[DNAzymes - Methods and Protocols](research%20paper%20pdfs/DNAzymes%20-%20Methods%20and%20Protocols.pdf) (pp.47-63)
+## Design
+> [DNAzymes - Methods and Protocols](research%20paper%20pdfs/DNAzymes%20-%20Methods%20and%20Protocols.pdf) (pp.47-63)
+
