@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "19bb51eec085a2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e1e9199bd37e9f77",
             "type": "leaf",
             "state": {
@@ -178,13 +191,13 @@
   },
   "active": "cd20dac164d0805b",
   "lastOpenFiles": [
-    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
+    "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Methodology.md",
+    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "research paper pdfs/978-1-0716-2047-2.pdf",
     "research paper pdfs/desktop.ini",
     "research paper pdfs",
     "New folder",
-    "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Multiple antibiotic resistance/marR gene.md",
     "Methicillin resistance/Penicillin-binding protein (PBP).md",
     "Methicillin resistance/MRSA.md",
