@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "19bb51eec085a2fc",
+            "id": "e356b15f9a63f9ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
+                "file": "Methicillin resistance/DNA sequences/mecA sequence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,6 +42,16 @@
               "type": "pdf",
               "state": {
                 "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf"
+              }
+            }
+          },
+          {
+            "id": "4393f6f903953e2e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
               }
             }
           }
@@ -190,10 +200,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ccc7078b243ac3e2",
+  "active": "cd20dac164d0805b",
   "lastOpenFiles": [
+    "Methicillin resistance/DNA sequences/mecA sequence.md",
     "Methodology.md",
+    "attachments/Pasted image 20230804204856.png",
+    "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
+    "attachments/Pasted image 20230804203151.png",
+    "attachments/image-000.png",
+    "attachments",
     "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
+    "research paper pdfs/nl0620684.pdf",
     "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "research paper pdfs/978-1-0716-2047-2.pdf",
     "research paper pdfs/desktop.ini",
@@ -211,7 +228,6 @@
     "Methicillin resistance/DNA sequences/PBP2 sequence.md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (PBP2).md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
-    "Methicillin resistance/DNA sequences/mecA sequence.md",
     "Methicillin resistance/DNA sequences/femA sequence.md",
     "Methicillin resistance/DNA sequences/blaI sequence.md",
     "Methicillin resistance/attachments/Pasted image 20230723234418.png",
@@ -225,9 +241,6 @@
     "Methicillin resistance/Methicillin resistance.md",
     "asdasd.md",
     "Untitled",
-    "Antibiotics",
-    "Multiple antibiotic resistance",
-    "Methicillin resistance",
     "Pasted image 20230723234316.png",
     "Pasted image 20230723234120.png",
     "Untitled.canvas"

@@ -10,5 +10,24 @@ There are currently 2 proposed [methicillin resistance](Methicillin%20resistance
 => I have made an executive decision to focus on strategy 1 since it should have a smaller chance of erroneous error comparatively. As discussed [here](Methicillin%20resistance/DNA%20sequences/MRSA%20genome%20comparison.md#findings), virtually any 15bp is enough to characterise the genes. For the ease of design and testing, we will start with constructing a DNAzyme with *only 1 detection arm*.
 
 ## Design
-> [DNAzymes - Methods and Protocols](research%20paper%20pdfs/DNAzymes%20-%20Methods%20and%20Protocols.pdf) (pp.47-63)
+> - [Medium Scale Integration of Molecular Logic Gates in an Automaton](research%20paper%20pdfs/Medium%20Scale%20Integration%20of%20Molecular%20Logic%20Gates%20in%20an%20Automaton.pdf)
+> - [DNAzymes - Methods and Protocols](research%20paper%20pdfs/DNAzymes%20-%20Methods%20and%20Protocols.pdf) (pp.47-63)
+
+![](attachments/Pasted%20image%2020230804204856.png)
+-> AND gate is chosen
+
+
+***The terminology below is very much invented by me.***
+
+| Block                | Sequence              | Notes                                           |
+|:-------------------- |:--------------------- |:----------------------------------------------- |
+| Door left            | CTGAAGAG              |                                                 |
+| Detection site left  | TCGTTCTATTCTCAT       | reverse complementary of the first 15bp of mecA |
+| Cleavage left        | CTCTTCAG              |                                                 |
+| Bowl                 | CGATGACTGCAGTCCACCCAT |                                                 |
+| Cleavage right       | GTTAGTGA              |                                                 |
+| Detection site right | TTATTCAGTTGTCTC       | reverse complementary of the last 15bp of mecA  |
+| Door right           | TCACTAAC              |                                                 |
+
+***Full sequence:*** CTGAAGAGTCGTTCTATTCTCATCTCTTCAGCGATGACTGCAGTCCACCCATGTTAGTGATTATTCAGTTGTCTCTCACTAAC
 
