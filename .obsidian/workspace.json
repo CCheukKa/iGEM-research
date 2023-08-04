@@ -23,59 +23,16 @@
             }
           },
           {
-            "id": "44172a1fc58652f1",
+            "id": "e1e9199bd37e9f77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6e4dfd492290a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methodology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "956ff83678578115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance/Methicillin resistance mechanisms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcff71c43894a77f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance/genes/genes involved.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Methodology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Methodology.md"
+              }
             }
           }
         ]
@@ -215,45 +176,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2bfb8f762e05402b",
+  "active": "cd20dac164d0805b",
   "lastOpenFiles": [
+    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "Methodology.md",
+    "research paper pdfs/978-1-0716-2047-2.pdf",
+    "research paper pdfs/desktop.ini",
+    "research paper pdfs",
+    "New folder",
     "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
-    "Methicillin resistance/Genomic basis for methicillin resistance.md",
+    "Multiple antibiotic resistance/marR gene.md",
+    "Methicillin resistance/Penicillin-binding protein (PBP).md",
+    "Methicillin resistance/MRSA.md",
     "Methicillin resistance/Methicillin resistance mechanisms.md",
-    "Methicillin resistance/genes/femA gene.md",
-    "Methicillin resistance/genes/genes involved.md",
+    "Methicillin resistance/Genomic basis for methicillin resistance.md",
     "Methicillin resistance/genes/mecA gene (PBP2a).md",
+    "Antibiotics/methicillin.md",
+    "Methicillin resistance/genes/genes involved.md",
+    "Methicillin resistance/genes/femA gene.md",
     "Methicillin resistance/DNA sequences/PBP2 sequence.md",
-    "Methicillin resistance/DNA sequences/blaI sequence.md",
-    "Methicillin resistance/DNA sequences/femA sequence.md",
-    "Methicillin resistance/DNA sequences/mecA sequence.md",
-    "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (PBP2).md",
+    "Methicillin resistance/DNA sequences/mecA sequence comparison (bla).md",
+    "Methicillin resistance/DNA sequences/mecA sequence.md",
+    "Methicillin resistance/DNA sequences/femA sequence.md",
+    "Methicillin resistance/DNA sequences/blaI sequence.md",
+    "Methicillin resistance/attachments/Pasted image 20230723234418.png",
+    "Antibiotics/tetracycline.md",
+    "Antibiotics/quinolones.md",
+    "Antibiotics/chloramphenicol.md",
+    "Antibiotics/beta-lactam.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Methicillin resistance/Penicillin-binding protein (PBP).md",
-    "Antibiotics/methicillin.md",
-    "Methicillin resistance/MRSA.md",
     "Genomic basis for methicillin resistance",
     "Methicillin resistance/Methicillin resistance.md",
     "asdasd.md",
-    "Methicillin resistance/asd.md",
-    "Antibiotics/quinolones.md",
-    "Multiple antibiotic resistance/marR gene.md",
-    "Antibiotics/tetracycline.md",
-    "Antibiotics/chloramphenicol.md",
-    "Antibiotics/beta-lactam.md",
     "Untitled",
     "Antibiotics",
     "Multiple antibiotic resistance",
     "Methicillin resistance",
-    "Methicillin resistance/genes",
-    "Methicillin resistance/attachments/Pasted image 20230723234418.png",
-    "f",
-    "Methicillin resistance/DNA sequences",
-    "attachments/Microbiology and Immunology - August 1995 - Hiramatsu - Molecular Evolution of MRSA.pdf",
-    "Methicillin resistance/attachments",
     "Pasted image 20230723234316.png",
     "Pasted image 20230723234120.png",
     "Untitled.canvas"
