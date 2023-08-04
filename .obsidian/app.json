@@ -16,7 +16,9 @@
     "MecA",
     "DNA-zymes",
     "DNA-zyme",
-    "femA"
+    "femA",
+    "DNAzyme",
+    "DNAzymes"
   ],
   "userIgnoreFilters": [
     "/desktop.ini/"

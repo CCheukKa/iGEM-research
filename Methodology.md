@@ -4,10 +4,10 @@ From [MRSA genome comparison](Methicillin%20resistance/DNA%20sequences/MRSA%20ge
 
 ## Strategies
 There are currently 2 proposed [methicillin resistance](Methicillin%20resistance/Genomic%20basis%20for%20methicillin%20resistance.md) detection strategies:
-1. Construct 2 separate DNA-zymes each responsible for individually detecting [mecA](Methicillin%20resistance/DNA%20sequences/mecA%20sequence.md) and [femA](Methicillin%20resistance/DNA%20sequences/femA%20sequence.md). The results would then be manually *and*'d together to produce a verdict.
-2. Construct 1(+) DNA-zyme(s) with one binding site targeting [mecA](Methicillin%20resistance/DNA%20sequences/mecA%20sequence.md) and the other [femA](Methicillin%20resistance/DNA%20sequences/femA%20sequence.md). A positive result can only be seen if both genes are present.
+1. Construct 2 separate DNAzymes each responsible for individually detecting [mecA](Methicillin%20resistance/DNA%20sequences/mecA%20sequence.md) and [femA](Methicillin%20resistance/DNA%20sequences/femA%20sequence.md). The results would then be manually *and*'d together to produce a verdict. ^4caeec
+2. Construct 1(+) DNAzyme(s) with one binding site targeting [mecA](Methicillin%20resistance/DNA%20sequences/mecA%20sequence.md) and the other [femA](Methicillin%20resistance/DNA%20sequences/femA%20sequence.md). A positive result can only be seen if both genes are present.
 
-=> I have made an executive decision to focus on 1 since it should have a smaller chance of erroneous error comparatively.
+=> I have made an executive decision to focus on [strategy 1](Methodology.md#^4caeec) since it should have a smaller chance of erroneous error comparatively. As discussed [here](Methicillin%20resistance/DNA%20sequences/MRSA%20genome%20comparison.md#findings), virtually any 15bp is enough to characterise the genes. For the ease of design and testing, we will start with constructing a DNAzyme with *only 1 detection arm*.
 
 ## Binding mechanics
 [DNAzymes - Methods and Protocols](research%20paper%20pdfs/DNAzymes%20-%20Methods%20and%20Protocols.pdf) (pp.47-63)
