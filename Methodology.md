@@ -7,5 +7,7 @@ There are currently 2 proposed [methicillin resistance](Methicillin%20resistance
 1. Construct 2 separate DNA-zymes each responsible for individually detecting [mecA](Methicillin%20resistance/DNA%20sequences/mecA%20sequence.md) and [femA](Methicillin%20resistance/DNA%20sequences/femA%20sequence.md). The results would then be manually *and*'d together to produce a verdict.
 2. Construct 1(+) DNA-zyme(s) with one binding site targeting [mecA](Methicillin%20resistance/DNA%20sequences/mecA%20sequence.md) and the other [femA](Methicillin%20resistance/DNA%20sequences/femA%20sequence.md). A positive result can only be seen if both genes are present.
 
+=> I have made an executive decision to focus on 1 since it should have a smaller chance of erroneous error comparatively.
+
 ## Binding mechanics
-[DNAzymes - Methods and Protocols](research%20paper%20pdfs/DNAzymes%20-%20Methods%20and%20Protocols.pdf) pp.47-63
+[DNAzymes - Methods and Protocols](research%20paper%20pdfs/DNAzymes%20-%20Methods%20and%20Protocols.pdf) (pp.47-63)

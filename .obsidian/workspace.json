@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology.md",
+                "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology.md",
+                "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology.md"
+                "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf"
               }
             }
           }
@@ -176,10 +177,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cd20dac164d0805b",
+  "active": "e1e9199bd37e9f77",
   "lastOpenFiles": [
-    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "Methodology.md",
+    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "research paper pdfs/978-1-0716-2047-2.pdf",
     "research paper pdfs/desktop.ini",
     "research paper pdfs",
