@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
+                "file": "Methodology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
+                "file": "Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md"
+                "file": "Methodology.md"
               }
             }
           }
@@ -214,11 +213,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e356b15f9a63f9ca",
+  "active": "cd20dac164d0805b",
   "lastOpenFiles": [
+    "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Methodology.md",
     "Methicillin resistance/DNA sequences/femA sequence.md",
-    "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Methicillin resistance/DNA sequences/mecA sequence.md",
     "attachments/Pasted image 20230804204856.png",
     "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",

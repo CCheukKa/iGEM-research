@@ -16,6 +16,7 @@ There are currently 2 proposed [methicillin resistance](Methicillin%20resistance
 
 ![](attachments/Pasted%20image%2020230804204856.png)
 -> AND gate is chosen
+-> The DNAzyme is constructed using the same base sequences as above
 
 #### DNAzyme 1 (mecA)
 ***The terminology below is very much invented by me.***
