@@ -68,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology.md",
+                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology.md",
+                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology.md"
+                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md"
               }
             }
           }
@@ -213,10 +214,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd20dac164d0805b",
+  "active": "e356b15f9a63f9ca",
   "lastOpenFiles": [
-    "Methicillin resistance/DNA sequences/femA sequence.md",
     "Methodology.md",
+    "Methicillin resistance/DNA sequences/femA sequence.md",
     "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Methicillin resistance/DNA sequences/mecA sequence.md",
     "attachments/Pasted image 20230804204856.png",

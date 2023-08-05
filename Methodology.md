@@ -48,6 +48,7 @@ There are currently 2 proposed [methicillin resistance](Methicillin%20resistance
 ***Full sequence:*** CTGAAGAGATTTGTAAACTTCATCTCTTCAGCGATGACTGCAGTCCACCCATGTTAGTGACTAAAAAATTCTGTCTCACTAAC
 
 ### Interpretation
+As discussed above, we will first focus on constructing separate DNAzymes for individual gene detection before potentially constructing one capable of detecting the presence of both genes, and thus methicillin resistance, directly. In the current stage, we will have to manually integrate the results from both DNAzymes to determine the presence of methicillin resistance.
 #### Table
 | D1S1 | D1S2 | D2S1 | D2S2 |-| mecA | femA |-| methicillin resistance |
 |:----:|:----:|:----:|:----:|-|:----:|:----:|-|:----------------------:|
