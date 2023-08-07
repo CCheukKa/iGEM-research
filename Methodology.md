@@ -7,7 +7,7 @@ There are currently 2 proposed [methicillin resistance](Methicillin%20resistance
 1. Construct 2 separate DNAzymes each responsible for individually detecting [mecA](Methicillin%20resistance/DNA%20sequences/mecA%20sequence.md) and [femA](Methicillin%20resistance/DNA%20sequences/femA%20sequence.md). The results would then be manually *and*'d together to produce a verdict.
 2. Construct 1(+) DNAzyme(s) with one binding site targeting [mecA](Methicillin%20resistance/DNA%20sequences/mecA%20sequence.md) and the other [femA](Methicillin%20resistance/DNA%20sequences/femA%20sequence.md). A positive result can only be seen if both genes are present.
 
-=> I have made an executive decision to focus on strategy 1 since it should have a smaller chance of erroneous error comparatively. As discussed [here](Methicillin%20resistance/DNA%20sequences/MRSA%20genome%20comparison.md#findings), virtually any 15bp is enough to characterise the genes. For the ease of design and testing, we will start with constructing a DNAzyme with *only 1 detection arm*.
+=> I have made an executive decision to focus on strategy 1 since it should have a smaller chance of erroneous error comparatively. As discussed [here](Methicillin%20resistance/DNA%20sequences/MRSA%20genome%20comparison.md#findings), virtually any 15bp is enough to characterise the genes. For the ease of design and testing, we will choose the very first and last 15bps of each gene as the detection target.
 
 ## Experimental Design
 ### DNAzyme design

@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Methodology.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -93,9 +93,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad8742b081c28266",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -179,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methicillin resistance/genes/genes involved.md",
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methicillin resistance/genes/genes involved.md",
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methicillin resistance/genes/genes involved.md"
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
               }
             }
           }
@@ -240,9 +250,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b12060cb69c7a085",
+  "active": "ad8742b081c28266",
   "lastOpenFiles": [
     "Methodology.md",
+    "Methicillin resistance/genes/genes involved.md",
     "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
     "Methicillin resistance/genes/mecA gene (PBP2a).md",
     "attachments/Pasted image 20230804204856.png",
@@ -265,7 +276,6 @@
     "Methicillin resistance/Methicillin resistance mechanisms.md",
     "Methicillin resistance/Genomic basis for methicillin resistance.md",
     "Antibiotics/methicillin.md",
-    "Methicillin resistance/genes/genes involved.md",
     "Methicillin resistance/genes/femA gene.md",
     "Methicillin resistance/DNA sequences/PBP2 sequence.md",
     "Methicillin resistance/DNA sequences/mecA sequence comparison (PBP2).md",
