@@ -18,6 +18,9 @@ There are currently 2 proposed [methicillin resistance](Methicillin%20resistance
 -> AND gate is chosen
 -> The DNAzymes are constructed using the same base sequences as above
 
+!!! detection site should have 40-60% C/G-content
+!!! avoid poly-A tail
+
 #### DNAzyme 1 (mecA)
 ***The terminology below is very much invented by me.***
 
