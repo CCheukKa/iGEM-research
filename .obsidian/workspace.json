@@ -23,84 +23,12 @@
             }
           },
           {
-            "id": "b6f911a977669b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance/genes/mecA gene (PBP2a).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e356b15f9a63f9ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edb45022963095ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance/DNA sequences/femA sequence.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1e9199bd37e9f77",
+            "id": "cb006ebab9ceedc6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf"
-              }
-            }
-          },
-          {
-            "id": "4393f6f903953e2e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
-              }
-            }
-          },
-          {
-            "id": "b12060cb69c7a085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methicillin resistance/genes/genes involved.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad8742b081c28266",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
               }
             }
           }
@@ -251,29 +179,29 @@
   },
   "active": "cd20dac164d0805b",
   "lastOpenFiles": [
+    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
-    "Methodology.md",
     "Methicillin resistance/genes/genes involved.md",
+    "Methicillin resistance/Genomic basis for methicillin resistance.md",
+    "Methodology.md",
     "Methicillin resistance/genes/mecA gene (PBP2a).md",
-    "attachments/Pasted image 20230804204856.png",
-    "attachments/Pasted image 20230804204856.png.0.pdnSave",
     "Methicillin resistance/DNA sequences/MRSA genome comparison.md",
     "Methicillin resistance/DNA sequences/femA sequence.md",
+    "Methicillin resistance/Methicillin resistance mechanisms.md",
+    "Methicillin resistance/MRSA.md",
+    "attachments/Pasted image 20230804204856.png",
+    "attachments/Pasted image 20230804204856.png.0.pdnSave",
     "Methicillin resistance/DNA sequences/mecA sequence.md",
     "attachments/Pasted image 20230804203151.png",
     "attachments/image-000.png",
     "attachments",
     "research paper pdfs/nl0620684.pdf",
-    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "research paper pdfs/978-1-0716-2047-2.pdf",
     "research paper pdfs/desktop.ini",
     "research paper pdfs",
     "New folder",
     "Multiple antibiotic resistance/marR gene.md",
     "Methicillin resistance/Penicillin-binding protein (PBP).md",
-    "Methicillin resistance/MRSA.md",
-    "Methicillin resistance/Methicillin resistance mechanisms.md",
-    "Methicillin resistance/Genomic basis for methicillin resistance.md",
     "Antibiotics/methicillin.md",
     "Methicillin resistance/genes/femA gene.md",
     "Methicillin resistance/DNA sequences/PBP2 sequence.md",
