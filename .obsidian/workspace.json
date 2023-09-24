@@ -31,8 +31,29 @@
                 "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf"
               }
             }
+          },
+          {
+            "id": "514c04aa4308ba8f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
+              }
+            }
+          },
+          {
+            "id": "5df612c7d25a2452",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology.md",
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology.md",
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology.md"
+                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
               }
             }
           }
@@ -177,10 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd20dac164d0805b",
+  "active": "5df612c7d25a2452",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Methodology.md",
+    "conflict-files-obsidian-git.md",
     "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
     "Methicillin resistance/genes/genes involved.md",
