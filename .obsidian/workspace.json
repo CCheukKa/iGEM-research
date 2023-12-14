@@ -41,19 +41,8 @@
                 "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
               }
             }
-          },
-          {
-            "id": "5df612c7d25a2452",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
+                "file": "Methodology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
+                "file": "Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
+                "file": "Methodology.md"
               }
             }
           }
@@ -189,21 +178,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "random-note:Open random note": false
     }
   },
-  "active": "5df612c7d25a2452",
+  "active": "cd20dac164d0805b",
   "lastOpenFiles": [
+    "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
     "Methodology.md",
     "conflict-files-obsidian-git.md",
     "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
-    "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
     "Methicillin resistance/genes/genes involved.md",
     "Methicillin resistance/Genomic basis for methicillin resistance.md",
     "Methicillin resistance/genes/mecA gene (PBP2a).md",
