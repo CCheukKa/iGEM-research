@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "549726de3db83986",
+        "id": "06521db9481088ff",
         "type": "tabs",
         "children": [
           {
-            "id": "cb006ebab9ceedc6",
+            "id": "80784ca00ebe99f3",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf"
-              }
-            }
-          },
-          {
-            "id": "514c04aa4308ba8f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf"
-              }
+                "file": "Antimicrobial resistance in developing countries.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -111,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
+                "file": "Antimicrobial resistance in developing countries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
+                "file": "Antimicrobial resistance in developing countries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research paper pdfs/DNAzymes - Methods and Protocols.pdf"
+                "file": "Antimicrobial resistance in developing countries.md"
               }
             }
           }
@@ -172,12 +167,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb006ebab9ceedc6",
+  "active": "80784ca00ebe99f3",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230804204856.png",
+    "research paper pdfs/Antimicrobial resistance in developing countries - Part I - recent trends and current status.pdf",
+    "Antimicrobial resistance in developing countries.md",
+    "attachments/Pasted image 20240722142841.png",
     "Methodology.md",
+    "research paper pdfs/The threat of antimicrobial resistance in developing countries - causes and control strategies.pdf",
+    "Untitled",
+    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "research paper pdfs/Medium Scale Integration of Molecular Logic Gates in an Automaton.pdf",
     "conflict-files-obsidian-git.md",
-    "research paper pdfs/DNAzymes - Methods and Protocols.pdf",
     "Methicillin resistance/genes/genes involved.md",
     "Methicillin resistance/Genomic basis for methicillin resistance.md",
     "Methicillin resistance/genes/mecA gene (PBP2a).md",
@@ -185,7 +186,6 @@
     "Methicillin resistance/DNA sequences/femA sequence.md",
     "Methicillin resistance/Methicillin resistance mechanisms.md",
     "Methicillin resistance/MRSA.md",
-    "attachments/Pasted image 20230804204856.png",
     "attachments/Pasted image 20230804204856.png.0.pdnSave",
     "Methicillin resistance/DNA sequences/mecA sequence.md",
     "attachments/Pasted image 20230804203151.png",
@@ -194,8 +194,6 @@
     "research paper pdfs/nl0620684.pdf",
     "research paper pdfs/978-1-0716-2047-2.pdf",
     "research paper pdfs/desktop.ini",
-    "research paper pdfs",
-    "New folder",
     "Multiple antibiotic resistance/marR gene.md",
     "Methicillin resistance/Penicillin-binding protein (PBP).md",
     "Antibiotics/methicillin.md",
@@ -210,9 +208,7 @@
     "Antibiotics/chloramphenicol.md",
     "Antibiotics/beta-lactam.md",
     "README.md",
-    "Genomic basis for methicillin resistance",
     "Methicillin resistance/Methicillin resistance.md",
-    "asdasd.md",
     "Pasted image 20230723234316.png",
     "Pasted image 20230723234120.png",
     "Untitled.canvas"
