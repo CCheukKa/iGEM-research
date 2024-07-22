@@ -14,4 +14,8 @@
 - Multidrug resistant bacteria in produce
 
 ## [Antimicrobial resistance in developing countries. Part I: recent trends and current status](research%20paper%20pdfs/Antimicrobial%20resistance%20in%20developing%20countries%20-%20Part%20I%20-%20recent%20trends%20and%20current%20status.pdf)
-![](attachments/Pasted%20image%2020240722142841.png)  
+> ![](attachments/Pasted%20image%2020240722142841.png)
+
+> ***The % don't add up to 100% ????***
+> ![](attachments/Pasted%20image%2020240722143912.png)
+> ![](attachments/Pasted%20image%2020240722144047.png)
