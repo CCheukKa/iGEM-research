@@ -21,8 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8df39e9719335098",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80784ca00ebe99f3",
+  "active": "8df39e9719335098",
   "lastOpenFiles": [
     "attachments/Pasted image 20240722144047.png",
     "attachments/Pasted image 20240722143912.png",
